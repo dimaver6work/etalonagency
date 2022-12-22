@@ -1,0 +1,16 @@
+@import './Header.scss';
+@import './About.scss';
+@import './Accordion.scss';
+@import './Questions.scss';
+@import './Reviews.scss';
+@import './Partners.scss';
+@import './Contact.scss';
+
+section {
+  background-color: #eee;
+}
+header,
+footer,
+section {
+  padding: 100px 0;
+}

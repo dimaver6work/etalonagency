@@ -1,0 +1,36 @@
+.reviews {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    h3 {
+        margin: 30px;
+        font-size: 40px;
+    }
+
+    .message {
+        padding: 15px;
+        margin-bottom: 20px;
+        font-size: 1.2rem;
+        background-color: #009b00;
+        color: white;
+        border-radius: 8px;
+        clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 37% 74%, 18% 99%, 20% 75%, 0% 75%);
+    }
+    .m1 {
+        display: flex;
+    }
+
+    .answer {
+        margin-left: 150px;
+        margin-top: 20px;
+        align-self: flex-end;
+        padding: 15px;
+        font-size: 1.2rem;
+        line-height: 30px;
+        background-color: #1e4e9a;
+        color: white;
+        border-radius: 8px;
+        clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 81% 75%, 82% 100%, 65% 76%, 0% 75%);
+    }
+}

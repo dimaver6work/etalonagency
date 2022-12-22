@@ -1,0 +1,23 @@
+.about_cirle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid #1e4e9a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 15px;
+}
+.about_cirle i {
+    font-size: 30px;
+    color: #1e4e9a;
+}
+.line {
+    width: 100px;
+    height: 3px;
+    background-color: #1e4e9a;
+    margin: 10px auto 30px;
+}
+.circles {
+    margin: 0 200px;
+}
